@@ -1,10 +1,12 @@
-## Hi there 👋, i'm Rodiceen!
+## Hi there 👋, i'm Adeife!
 
 😎 A versatile developer and website designer who transforms abstract ideas into beautiful, functional, and lightning-fast digital experiences.
 
 🍕 From the foundational structure of the web to the low-level efficiency of system programming, I bring a broad and unique skill set to every project. I blend front-end artistry with back-end rigor to deliver polished, full-stack solutions.
 
-🎈 Currently learnig c and c++
+🎈 Currently learning c and c++
+
+Also happy to be a graphics designer in the making
 
 Why does this matter for a designer?
 
